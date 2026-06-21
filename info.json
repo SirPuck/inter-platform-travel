@@ -1,0 +1,12 @@
+{
+	"name": "inter-platform-travel",
+	"version": "1.0.0",
+	"title": "IPT - Inter Platform Travel",
+	"author": "SirPuck",
+	"homepage": "https://discord.gg/DBW37M34NX",
+	"contact": "Discord : puke0417",
+	"dependencies": ["base  >= 2.0.77"],
+	"space_travel_required": true,
+	"description": "Use the Inter-platform travel keybind while inside a platform hub to travel to another platform at the same space location.",
+	"factorio_version": "2.0"
+}
